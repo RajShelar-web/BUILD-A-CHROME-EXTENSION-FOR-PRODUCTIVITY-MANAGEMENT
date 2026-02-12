@@ -113,3 +113,7 @@ Secure Login/Register (JWT)
 User preferences stored in MongoDB
 
 Cloud data sync across devices
+
+#OUTPUT :
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b71b862b-d66c-4d5b-bb8c-9bb6a2c453ff" />
